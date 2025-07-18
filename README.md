@@ -1,6 +1,6 @@
-# CSCI-3300-Group3
+# PeakMode
 Team Project for Group 3
-Title: PeakMode
+
 	
  	PeakMode is a fitness focused app built with Java for Android Studio that allows users to
   	take control of their health and performance goals. Whether you are looking to lose weight,
