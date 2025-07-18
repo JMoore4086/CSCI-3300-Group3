@@ -5,8 +5,8 @@ Title: PeakMode
  	PeakMode is a fitness focused app built with Java for Android Studio that allows users to
   	take control of their health and performance goals. Whether you are looking to lose weight,
    	improve your stamina, or build muscle, PeakMode provides personalized guidance to fit your 
-    	fitness level from beginner to advanced level. With built in calories tracking and questionnaires,
-     	it’s designed for anyone committed to improving their health journey. 
+    fitness level from beginner to advanced level. With built in calories tracking and questionnaires,
+    it’s designed for anyone committed to improving their health journey. 
 
 Features:
 
